@@ -1,0 +1,11 @@
+C:\Users\emanu\OneDrive\Documents\Cours\BA3\ELEC H 310\PSoC Creator\Workspace01\Lab1.cydsn\Lab1.cyprj|c9b39a3f-c3ec-4b81-be60-9a2c6d30033c
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|091931eb-f303-4167-ac36-c172b34d91c5
+C:\Users\emanu\OneDrive\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|01ed24fd-1131-4b7d-93fa-1781d49ae310
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|6fc43a74-a000-4957-b896-bbe32d80c7bb
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|607d107b-3dfe-4272-ae1f-85ec34398998
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|ba0f88bc-1882-45fa-b4c6-cc0fda17e7d3
+C:\Users\emanu\OneDrive\Documents\Cours\BA3\ELEC H 310\PSoC Creator\Workspace01\Lab2.cydsn\Lab2.cyprj|23cc8b0f-a6aa-4cd8-bd44-9c9a7b15c2d0
+C:\Users\emanu\OneDrive\Documents\Cours\BA3\ELEC H 310\PSoC Creator\Workspace01\Lab3.cydsn\Lab3.cyprj|3024cd27-bc1e-4e6e-809c-43be53d7d009
+C:\Users\emanu\OneDrive\Documents\Cours\BA3\ELEC H 310\PSoC Creator\Workspace01\Lab 3 corr.cydsn\Lab 3 corr.cyprj|2f675766-fe2e-4ce4-af05-b98ecd146819
+C:\Users\emanu\OneDrive\Documents\Cours\BA3\ELEC H 310\PSoC Creator\Workspace01\TEST.cydsn\TEST.cyprj|272e78d9-1f07-482c-bc4e-40d6d2aa063e
+C:\Users\emanu\OneDrive\Documents\Cours\BA3\ELEC H 310\PSoC Creator\Workspace01\ProjetDigital.cydsn\ProjetDigital.cyprj|61447767-e8a9-4e0f-9e62-2dae58ba1c94
